@@ -1,2 +1,1 @@
-# minicube2
-minicube2
+Дідос атака для перевірки for /l %i in (1,1,10000) do curl -s -o NUL http://192.168.59.103:32460/ 

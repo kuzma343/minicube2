@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: website
-        image: kuzma343/minicube
+        image: jj975/whodocker
         ports:
         - containerPort: 80
